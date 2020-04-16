@@ -13,7 +13,9 @@ Note: Using Kaggle will let you implement code for the CS 361 final project thro
 
 7. Open the part 2 notebook on Kaggle. Click ``` + Add Data``` on the top right. Then click ```Search by URL```. Enter this URL ```https://www.kaggle.com/brianyangcoder/cs-361-mnist-data``` into the search box. Click ```Add``` for the dataset that says ```CS 361 MNIST Data```.
 
-8. Optional: Click the title of your notebook on the top and rename it so that you can find it later. The title usually looks like ```kernel<random characters>```, but rename it so that you can find the notebook more easily next time.
+8. To save a file, click ```Save Version``` on the top. Select either ```Quick Save``` or ```Save & Run All```. Kaggle will autosave every few seconds, but in case you lose connection, you should click ```Save Version``` to save multiple versions of your code.
+
+9. Optional: Click the title of your notebook on the top and rename it so that you can find it later. The title usually looks like ```kernel<random characters>```, but rename it so that you can find the notebook more easily next time.
 
 
 # Running Locally
