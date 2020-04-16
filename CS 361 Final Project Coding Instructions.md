@@ -9,7 +9,7 @@ Note: Using Kaggle will let you implement code for the CS 361 final project thro
 
 5. Go to File -> Upload Notebook. Then upload the Python notebook for part 1 from the ```kaggle/``` folder. Save this notebook by clicking Save Version in the upper right hand corner. Please use the code in the kaggle/ folder, not the local/ folder.
 
-6. Repeat steps 4-6 for the Python notebook for part 2. You should now have 2 separate notebooks on Kaggle.
+6. Repeat steps 3-5 for the Python notebook for part 2. You should now have 2 separate notebooks on Kaggle.
 
 7. Open the part 2 notebook on Kaggle. Click ``` + Add Data``` on the top right. Then click ```Search by URL```. Enter this URL ```https://www.kaggle.com/brianyangcoder/cs-361-mnist-data``` into the search box. Click ```Add``` for the dataset that says ```CS 361 MNIST Data```.
 
