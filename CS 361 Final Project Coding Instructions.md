@@ -11,7 +11,8 @@ Note: Using Kaggle will let you implement code for the CS 361 final project thro
 
 6. Repeat steps 3-4 for the Python notebook for part 2. You should now have 2 separate notebooks on Kaggle.
 
-7. Open the part 2 notebook on Kaggle. Click ``` + Add Data``` on the top right. Then click ```Search by URL```. Enter this URL ```https://www.kaggle.com/brianyangcoder/cs-361-mnist-data``` into the search box. Click ```Add``` for the dataset that says ```CS 361 MNIST Data```. **If you are having issues with adding the data or the page says ```Draft Session Fatal```, you may need to enable phone verification on the panel on the right. Once you've verified your phone, you should enable Internet and then retry this step again.**
+7. Open the part 2 notebook on Kaggle. Click ``` + Add Data``` on the top right. Then click ```Search by URL```. Enter this URL ```https://www.kaggle.com/brianyangcoder/cs-361-mnist-data``` into the search box. Click ```Add``` for the dataset that says ```CS 361 MNIST Data```. 
+    - **If you are having issues with adding the data or the page says ```Draft Session Fatal```, you may need to enable phone verification on the panel on the right. Once you've verified your phone, you should enable Internet and then retry this step again.**
 
 8. To save a file, click ```Save Version``` on the top. Select either ```Quick Save``` or ```Save & Run All```. Kaggle will autosave every few seconds, but in case you lose connection, you should click ```Save Version``` to save multiple versions of your code.
 
