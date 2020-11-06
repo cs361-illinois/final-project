@@ -3,7 +3,7 @@ Contains the starter code for parts 1 and 2 of the CS 361 final project.
 
 ## Instructions
 There are 2 options to run the code: 
-(1) use [Google Colab](https://colab.research.google.com/) online (highly recommended option
+(1) use [Google Colab](https://colab.research.google.com/) online (highly recommended option)
 (2) run each Python notebook locally with Anaconda or some other Python notebook application
 
 If you've never used Anaconda before or don't know how to run Python notebooks locally, you can use Google Colab. It's a free online coding environment made by Google that lets you run Python notebooks. The files will be saved to Google Drive. To upload the files:
