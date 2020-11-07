@@ -15,4 +15,4 @@ If you've never used Anaconda before or don't know how to run Python notebooks l
 
 ### Google Colab - Upload through GitHub URL
 1. You can go to [Google Colab](https://colab.research.google.com/) and click `GitHub`. Then enter `https://github.com/brian-yang/cs361-final-project` as the URL. Then there should be 2 options for `.ipynb` files to upload. Click on both of these links to upload them to Google Colab.
-2. **IMPORTANT:** You **MUST** save each notebook by either going to `File -> Save a copy in Drive` or doing Ctrl-S and then clicking `Save a copy in Drive`. Otherwise, the file will not be saved in your Google Drive.
+2. **IMPORTANT:** You **MUST** save each notebook by either going to `File -> Save a copy in Drive` or doing Ctrl-S and then clicking `Save a copy in Drive`. Otherwise, the file will not be saved in your Google Drive and you will lose all your work once you exit the page.
